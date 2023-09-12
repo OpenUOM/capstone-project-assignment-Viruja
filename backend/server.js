@@ -2,7 +2,7 @@ const express = require ("express");
 
 const {
   readTeachers,
-  readStudents,
+  readStudents, //to check if this is getting commited
   addStudent,
   addTeacher,
   deleteTeacher,
